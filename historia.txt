@@ -18,4 +18,11 @@ rm --help: explica que hacen todos los comandos en este caso rm
 //////////////////////////
 git init: estara la base de datos cdonde estaran los cambios
 code: abre visual estudio
-
+git status: estado del proyecto
+git add: nuevo archivo es "historia.txt"
+git rm : archivo cambia estado 
+git rm --cached : se borro
+git status: vuelvo a como estaba y luego se hace git add
+git commit -m "V2": lo envia al repositorio
+git config --global user.name "Christian"
+git config --global user.email "---@"
