@@ -28,3 +28,6 @@ git config --global user.name "Christian"
 git config --global user.email "---@"
 git log historia.txt : muestra las historias
 git show historia.txt
+ahora:
+git add .
+git commit
