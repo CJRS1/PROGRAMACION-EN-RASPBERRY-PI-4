@@ -1,2 +1,21 @@
-Esta es la historia de fredy
-tengo 22 años
+CD: navegar en carpetas
+CD /: con eso estoy en home
+pwd: para saber en que carpeta estoy
+ls: lista de los archivos en la arpeta
+ls -al: archivos incluso los ocultos
+ls -l: muestera casi todos los archivos
+ls -a: muestra archivops pero ya no en lista
+%% No diferencia de minusculas con mayusculas
+cd U + tab muestra la palabra que tenga U al comienzo en carpetas
+cd ..: salgo de todos
+mkdir: realiza carpeta
+touch: crea archivo vacio
+cd .: me quedo en el mismo lugar
+cat: muestra lo que estè dentro del archivo
+history: muestra los comandos usados
+rm: borra el archivo
+rm --help: explica que hacen todos los comandos en este caso rm
+//////////////////////////
+git init: estara la base de datos cdonde estaran los cambios
+code: abre visual estudio
+
