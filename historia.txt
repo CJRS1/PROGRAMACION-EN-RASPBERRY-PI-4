@@ -26,3 +26,5 @@ git status: vuelvo a como estaba y luego se hace git add
 git commit -m "V2": lo envia al repositorio
 git config --global user.name "Christian"
 git config --global user.email "---@"
+git lolg historia.txt : muestra las historias
+git show historia.txt
