@@ -30,4 +30,16 @@ git log historia.txt : muestra las historias
 git show historia.txt
 ahora:
 git add .
-git commit
+git commit: se debe de poner un mensaje (salimos con ESC +shift+zz)
+abre un editor dee texto (ESC + i se puede escribir texto)
+git diff y copio numeros de commit para compararlos
+si se colocanal revez cambia el orden de los cambios
+git init: repositorio
+genera staging y repositorio
+Master v1 v2 v3               commit   vactual vfinal
+Experimentos de v3 v2 ... 
+Bugfixing                                 v1   v2 
+hitfix
+git reset : podemos volver a una version anterior
+git reset sdkñaskdllñ --hard volvemos a la version anterior  
+git reset sdkñaskdllñ --soft 
